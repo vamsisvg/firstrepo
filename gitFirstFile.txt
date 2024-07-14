@@ -1,0 +1,8 @@
+learning devops 
+  aws 
+    kubernetes 
+      docker 
+        performance 
+          engineering 
+            in 
+            clould
